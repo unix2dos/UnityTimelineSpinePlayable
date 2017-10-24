@@ -1,0 +1,7 @@
+—HYP
+G001     苹果拖拽游戏
+G002     香蕉拖拽游戏
+—GCH
+G101     SelectDessert	甜品选择
+G102     PairInstrument	乐器选择
+—LW
