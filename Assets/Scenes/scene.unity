@@ -125,12 +125,12 @@ GameObject:
   - component: {fileID: 9525984}
   - component: {fileID: 9525983}
   m_Layer: 0
-  m_Name: timeline2
+  m_Name: timelineSpine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!320 &9525981
 PlayableDirector:
   m_ObjectHideFlags: 0
@@ -151,6 +151,8 @@ PlayableDirector:
     value: {fileID: 9525983}
   - key: {fileID: 114800576336137020, guid: d3715eeb2310d4337b6933daa91eeb50, type: 2}
     value: {fileID: 0}
+  - key: {fileID: 114611842331397682, guid: d3715eeb2310d4337b6933daa91eeb50, type: 2}
+    value: {fileID: 1326464139}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &9525982
@@ -455,12 +457,12 @@ GameObject:
   - component: {fileID: 1387167985}
   - component: {fileID: 1387167984}
   m_Layer: 0
-  m_Name: timeline1
+  m_Name: timelineSelf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!320 &1387167984
 PlayableDirector:
   m_ObjectHideFlags: 0
